@@ -14,6 +14,7 @@ Multi-step clickjacking extends the deceptive principles of basic clickjacking i
 | ------------- | ---------------- | -------------- |
 | ![1](https://github.com/user-attachments/assets/9dceeeaa-2b13-4676-9b05-aa158fe1454f) | ![2](https://github.com/user-attachments/assets/ad0af27f-0892-4755-9429-f62dba2ec8fb) | ![3](https://github.com/user-attachments/assets/894dd810-7394-4ae7-b451-5fc7db697258) |
 
+
 ## Key Features
 
 | Feature | Description |
